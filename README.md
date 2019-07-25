@@ -9,7 +9,13 @@
 
 - jake is now appearence in view
 
+![](./img/play1.JPG)
+
 - jump button is now doing well
+
+![](./img/play2.JPG)
+> when you crash the horn your jake is dead...
+
 
 **Issue**
 

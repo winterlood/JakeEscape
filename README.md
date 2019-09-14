@@ -3,7 +3,7 @@
 
 ---
 
-Ver 1 Now Ready....
+Ver 1 Now Ready...
 
 **🚧 Ver#0.01**
 
